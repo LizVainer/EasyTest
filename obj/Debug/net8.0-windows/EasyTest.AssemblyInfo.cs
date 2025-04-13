@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Team2")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EasyTest")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0fc9da06803699fc61165b3a16833265f75f0a2")]
-[assembly: System.Reflection.AssemblyProductAttribute("Team2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Team2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33d6ea59778d17dfcbdd5afaa794f049b99cea0b")]
+[assembly: System.Reflection.AssemblyProductAttribute("EasyTest")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EasyTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

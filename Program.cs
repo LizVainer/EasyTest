@@ -1,4 +1,4 @@
-namespace Team2;
+namespace EasyTest;
 
 static class Program
 {

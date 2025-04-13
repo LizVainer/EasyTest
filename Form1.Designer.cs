@@ -1,4 +1,4 @@
-﻿namespace Team2;
+﻿namespace EasyTest;
 
 partial class Form1
 {
