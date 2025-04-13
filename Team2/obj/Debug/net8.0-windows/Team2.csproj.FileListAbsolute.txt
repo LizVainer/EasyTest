@@ -1,0 +1,15 @@
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\bin\Debug\net8.0-windows\Team2.exe
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\bin\Debug\net8.0-windows\Team2.deps.json
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\bin\Debug\net8.0-windows\Team2.runtimeconfig.json
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\bin\Debug\net8.0-windows\Team2.dll
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\bin\Debug\net8.0-windows\Team2.pdb
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.AssemblyInfoInputs.cache
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.AssemblyInfo.cs
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.csproj.CoreCompileInputs.cache
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.sourcelink.json
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.dll
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\refint\Team2.dll
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.pdb
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\Team2.genruntimeconfig.cache
+C:\Users\29ida\OneDrive\Documents\GitHub\EasyTest\Team2\obj\Debug\net8.0-windows\ref\Team2.dll
